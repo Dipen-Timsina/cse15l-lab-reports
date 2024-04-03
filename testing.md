@@ -3,11 +3,12 @@ My name is __Dipen__
 I am in #CSE 15l and ##CSE 12
      
 I like to 
-*play soccer
 
-*play basketball
+-play soccer
 
-*listen to music 
+-play basketball
+
+-listen to music 
 
 My Favorite soccer players are 
 1) Messi
