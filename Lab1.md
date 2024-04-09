@@ -7,7 +7,7 @@ PID: A17388987
 ### 1. `cd` Commands
 + **Share an example of using the command with no arguments.**
 1.  ![Image](CD1.png)
-2. Absolute Path= `/Users/dipentimsina`
+2. Absolute Path= `/Users/dipentimsina/lecture1`
 3. Explanation: If `cd` is executed without arguments,the user is returned to the home directory.
 4. Output was not an error
 
