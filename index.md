@@ -1,6 +1,6 @@
 hi, I am creating this for my lab reports 
 
-[Lab1](Lab1.html)
+<a href="Lab1.html">Lab1</a>
 
 [Lab2]()
 
