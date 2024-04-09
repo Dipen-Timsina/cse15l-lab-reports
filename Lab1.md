@@ -50,7 +50,7 @@ PID: A17388987
 ### 3. `cat` Commands 
 + **Share an example of using the command with no arguments.**
 1. ![Image](CAT1.png)
-2. Absolute Path: `/Users/dipentimsina/`
+2. Absolute Path: `/Users/dipentimsina`
 3. Output is not an error
 4. Explanation:Without arguments, `cat` waits for user input and displays it back, ending when Ctrl + D is pressed.
 
