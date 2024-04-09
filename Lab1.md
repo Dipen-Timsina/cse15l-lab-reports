@@ -7,13 +7,13 @@ PID: A17388987
 ### 1. `cd` Commands
 + **Share an example of using the command with no arguments.**
 1.  ![Image](CD1.png)
-2. Absolute Path= `/Users/dipentimsina/lecture1`
+2. Absolute Path= `/Users/dipentimsina`
 3. Explanation: If `cd` is executed without arguments,the user is returned to the home directory.
 4. Output was not an error
 
 + **Share an example of using the command with a path to a directory as an argument.**
 1.![Image](CD2.png)
-2. Absolute path = `/Users/dipentimsina/lecture1`
+2. Absolute path = `/Users/dipentimsina` 
 3. Explanation: When using `cd` towards a path directory as an argument, in this case `lecture1`, it changes the current working directory to `lecture1`. In this case we were already at lecture one so thats why there wasn't a chnage in directory. 
 4. Output was not an error
 
@@ -40,7 +40,7 @@ PID: A17388987
 
 + **Share an example of using the command with a path to a file as an argument.** 
 1.![Image](LS3.png)
-2. Absolute Path: `/Users/dipentimsina/lecture1 (home)`
+2. Absolute Path: `/Users/dipentimsina/lecture1`
 3. Output is not an error
 4. Explanation: `ls` on a file displays the file name if it exists, in this case `Hello.java` exists in `lecture1`, so it just prints Hello.java
 
