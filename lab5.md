@@ -42,9 +42,9 @@ public class ArrayExamplesTest {
 }
 ```
 3. The symptom, as the output of running the two tests above (provide it as a screenshot -- one test should pass, one test should fail).
-![Image](Lab51.png)
-![Image](Lab52.png)
-![Image](Lab53.png)
+![Image](lab51.png)
+![Image](lab52.png)
+![Image](lab53.png)
 4. The bug, as the before-and-after code change required to fix it (as two code blocks in Markdown).
 
 Before
