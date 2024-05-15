@@ -79,7 +79,7 @@ static void reverseInPlace(int[] arr) {
 1. grep -w
 + Example 1
 
-`grep -w "help" technical/911report/chapter-13.5.txt`
+` grep -w "help" technical/911report/chapter-13.5.txt `
 ```
  for the information only to help the criminal agents in their ongoing Cole
             168. For units stopping or delaying evacuation to help, see FDNY interview 40,
